@@ -1,10 +1,9 @@
 # ¡Hola! Soy James Tautiva 
 ### **Desarrollador Full Stack & Técnico en Sistemas**
-Transformo ideas e infraestructuras complejas en soluciones digitales fluidas, optimizadas y listas para producción. Experiencia construyendo interfaces dinámicas en React y microservicios robustos en Node.js, Express y bases de datos SQL/NoSQL.
-Contáctame
-Hola, soy James
-Tautiva Molano
+
 Como Desarrollador Full Stack, me especializo en diseñar y construir aplicaciones web y móviles de alto rendimiento. Mi enfoque combina la creación de interfaces dinámicas e intuitivas en React y React Native con arquitecturas de servidor sólidas y escalables impulsadas por Node.js, Express y bases de datos SQL/NoSQL.
+
+Me apasiona optimizar entornos de desarrollo, automatizar flujos de trabajo en Linux y llevar cada proyecto desde la concepción del código hasta arquitecturas de producción limpias y eficientes.
 ---
 
 ###  Tech Stack
